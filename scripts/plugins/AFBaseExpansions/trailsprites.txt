@@ -1,0 +1,15 @@
+#sprite definition file for simpletrail plugin
+#any line starting with # is a comment line
+
+#default sprites
+
+sprites/zbeam3.spr fatline 0
+sprites/zbeam5.spr thinline 0
+sprites/voiceicon.spr voice 1
+sprites/xbeam4.spr smokey 0
+sprites/lgtning.spr lightning 0
+sprites/interlace.spr interlace 0
+
+#add custom sprites below
+#format: (path) (name) (0 recolor 1 force white)
+#example: sprites/xsmoke3.spr xmoke3

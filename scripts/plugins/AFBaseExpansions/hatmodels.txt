@@ -1,0 +1,54 @@
+#define hat models here
+
+#format guide:
+# path doesnt require models/ or .mdl, they are automagically added
+# static defines name from model name
+#STATIC path
+# use this to define multiple hats from single model that contains submodels
+#DYNAMIC path submodel sequence name
+
+STATIC hats/afro
+STATIC hats/asswp
+STATIC hats/awesome
+STATIC hats/barrel
+STATIC hats/cheesehead
+STATIC hats/headphones
+STATIC hats/headcrab
+STATIC hats/jamacahat2
+STATIC hats/mau5
+STATIC hats/paperbag
+STATIC hats/santahat
+STATIC hats/shoopdawhoop
+STATIC hats/tophat
+STATIC hats/tutu
+STATIC hats/viking
+STATIC hats/punk
+STATIC hats/bomb
+
+DYNAMIC hats/cso_like_costumes_head 0 0 angelhead
+DYNAMIC hats/cso_like_costumes_head 1 1 bazzihead
+DYNAMIC hats/cso_like_costumes_head 2 2 cathead
+DYNAMIC hats/cso_like_costumes_head 3 3 daohead
+DYNAMIC hats/cso_like_costumes_head 4 4 devilhead
+DYNAMIC hats/cso_like_costumes_head 5 5 goldhead
+DYNAMIC hats/cso_like_costumes_head 6 6 pandahead
+DYNAMIC hats/cso_like_costumes_head 7 7 pighead
+DYNAMIC hats/cso_like_costumes_head 8 8 polarbearhead
+DYNAMIC hats/cso_like_costumes_head 10 10 snowhead
+DYNAMIC hats/cso_like_costumes_head 11 11 squirrelhead
+DYNAMIC hats/cso_like_costumes_pelvis 0 0 cattail
+DYNAMIC hats/cso_like_costumes_pelvis 1 1 deviltail
+DYNAMIC hats/cso_like_costumes_pelvis 2 2 pandatail
+DYNAMIC hats/cso_like_costumes_pelvis 3 3 pigtail
+DYNAMIC hats/cso_like_costumes_pelvis 4 4 squirreltail
+DYNAMIC hats/cso_like_costumes_back 0 0 angelback
+DYNAMIC hats/cso_like_costumes_back 1 1 catback
+DYNAMIC hats/cso_like_costumes_back 2 2 clockback
+DYNAMIC hats/cso_like_costumes_back 3 3 devilback
+DYNAMIC hats/cso_like_costumes_back 4 4 goldback
+DYNAMIC hats/cso_like_costumes_back 5 5 pandaback
+DYNAMIC hats/cso_like_costumes_back 6 6 pigback
+DYNAMIC hats/cso_like_costumes_back 7 7 polarbearback
+DYNAMIC hats/cso_like_costumes_back 8 8 pumpkinback
+DYNAMIC hats/cso_like_costumes_back 9 9 snowback
+DYNAMIC hats/cso_like_costumes_back 10 10 squirrelback
