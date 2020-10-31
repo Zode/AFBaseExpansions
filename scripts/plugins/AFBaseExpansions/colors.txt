@@ -1,0 +1,19 @@
+#color definition file for simpletrail/simpleglow plugins
+#any line starting with # is a comment line
+
+#default colors
+
+red 255 0 0
+orange 255 128 0
+yellow 255 255 0
+lime 128 255 0
+green 0 255 0
+turquoise 0 255 200
+cyan 0 128 255
+blue 0 0 255
+purple 128 0 255
+pink 255 0 255
+white 255 255 255
+
+#add custom colors below
+#format: (name) (RRR) (GGG) (BBB)

@@ -121,7 +121,7 @@ class SimpleTrail : AFBaseClass
 namespace SimpleTrail
 {
 	const string VERSION = "1.0";
-	const string g_ColorFile = "scripts/plugins/flcolors.txt";
+	const string g_ColorFile = "scripts/plugins/AFBaseExpansions/colors.txt";
 	const string g_SpriteFile = "scripts/plugins/AFBaseExpansions/trailsprites.txt";
 
 	CCVar@ g_cvarHideChat;
